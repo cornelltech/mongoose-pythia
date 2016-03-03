@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/cornelltech/mongoose-pythia/issues"
   },
-  "homepage": "https://github.com/cornelltech/mongoose-pythia#readme"
+  "homepage": "https://github.com/cornelltech/mongoose-pythia#readme",
+  "dependencies": {
+    "pythia-sdk": "0.0.1"
+  }
 }
